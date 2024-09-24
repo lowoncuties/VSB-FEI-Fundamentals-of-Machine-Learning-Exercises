@@ -3,11 +3,13 @@
 
 Course information may be found [here](https://homel.vsb.cz/~pla06/).
 
-You can find more details about the course at [my homel](https://homel.vsb.cz/~svo0175/).
+You can find more details about the course at [Homel from Radek Svoboda](https://homel.vsb.cz/~svo0175/).
 
-Feel free to contact me (<radek.svoboda@vsb.cz>) if you have any questions or want to discuss any topic from the course 😊
+Feel free to contact me (<lukas.jochymek.st@vsb.cz>) if you have any questions or want to discuss any topic from the course 😊
 
 All authorship is mentioned where possible.
+
+**Big thanks to Radek Svoboda for all the materials**.
 
 # 📊 Exercises
 ## Exercise 1
@@ -119,6 +121,10 @@ Credit goes to prof. Ing. Jan Platoš, Ph.D.
 ```
 python -m venv venv
 ```
+OR
+```
+python3 -m venv venv
+```
 
 ### Activate `venv`
 
@@ -127,17 +133,17 @@ python -m venv venv
 .\venv\Scripts\Activate.ps1
 ```
 
-* Activate `venv` in **Linux**
+* Activate `venv` in **Linux/macOS**
 ```
 source venv/bin/activate
 ```
 
-
-### Intall python packages
+### Create
+### Install python packages
+- Navigate to the root folder where the **requirements.txt** is located
 
 ```
-pip install jupyter "jupyterlab>=3" "ipywidgets>=7.6"
-pip install pandas matplotlib requests seaborn scipy scikit-learn optuna tensorflow plotly==5.18.0
+pip install -r requirements.txt 
 ```
 
 ### 🚀 Run Jupyter lab
@@ -145,3 +151,17 @@ pip install pandas matplotlib requests seaborn scipy scikit-learn optuna tensorf
 ```
 jupyter lab
 ```
+
+## How to run Jupyter notebook directly in the VSCode
+1. Download **Jupyter** extension
+2. Follow the [How to create a Python Virtual Enviroment](###Create)
+3. Directly open the fml_xx.ipynb in the VSCode
+4. Enjoy the local experience
+
+### Hints for the VSCode
+
+- You can use same shortcuts as with the *JupyteLab* or *Google Colab*
+- Sometimes the jupyter kernel may freeze, you can use the VSCode command to reload window
+  - **MacOS**  ```shift + command + P``` -> Reload Window
+  - **Windows/Linux** ```shift + alt + P``` -> Reload Window
+- You can use the ```pip install library_name``` directly in the Jupyter notebook
