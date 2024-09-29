@@ -22,9 +22,9 @@ The aim of the exercise is to get an overview of the basic capabilities of the P
 ## Exercise 2
 The aim of the exercise is to learn basic techniques for visualization creation and interpretation using Matplotlib and Seaborn libraries.
 
-> [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_02.ipynb)
+> [Jupyter Notebook](https://github.com/lowoncuties/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_02.ipynb)
 
-> [Google Colab](https://colab.research.google.com/github/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_02.ipynb)
+> [Google Colab](https://colab.research.google.com/github/lowoncuties/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_02.ipynb)
 
 ## Exercise 3
 Goal of the excercise is to learn about more advanced vizualization techniques using Matplotlib and Seaborn libraries.
