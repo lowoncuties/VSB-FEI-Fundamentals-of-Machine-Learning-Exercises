@@ -11,7 +11,7 @@ All authorship is mentioned where possible.
 
 **Big thanks to Radek Svoboda for all the materials**.
 
-## Study materials
+## 📚 Study materials
 
 Materials that should help you with the basic concepts from the mathematics and statistics needed by this course.
 
