@@ -11,6 +11,17 @@ All authorship is mentioned where possible.
 
 **Big thanks to Radek Svoboda for all the materials**.
 
+## Study materials
+
+Materials that should help you with the basic concepts from the mathematics and statistics needed by this course.
+
+> [Jupyter Notebook](https://github.com/lowoncuties/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/statistics_explained.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/lowoncuties/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/statistics_explained.ipynb)
+
+
+Any PR is welcome, whether you find a typo or you have better explanation
+
 # 📊 Exercises
 ## Exercise 1
 The aim of the exercise is to get an overview of the basic capabilities of the Pandas, Matplotlib and Seaborn libraries and be able to setup a Python Virtual Enviroment (`venv`)
