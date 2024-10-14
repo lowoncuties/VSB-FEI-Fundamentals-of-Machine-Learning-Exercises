@@ -49,7 +49,7 @@ Goal of the excercise is to learn how to use K-means implementation in the Sciki
 
 > [Jupyter Notebook](https://github.com/lowoncuties/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_04.ipynb)
 
-> [Google Colab](https://colab.research.google.com/lowoncuties/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_04.ipynb)
+> [Google Colab](https://colab.research.google.com/github/lowoncuties/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_04.ipynb)
 
 ## Exercise 5
 We will learn how to use another clustering algorithm - Hierarchical (or Agglomerative) clustering. The base principles and important hyper-parameters will be explained.
